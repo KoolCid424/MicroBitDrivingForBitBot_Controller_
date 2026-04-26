@@ -8,8 +8,8 @@
         # # # # # 
         # . . . . 
         # . # # # 
-        # . . # . 
-        # # # # .
+        # . . . # 
+        # # # # #
         `</field><next><block type="device_pause" id="9}Q(D_-i~2Fu,f-kl1qf"><value name="pause"><shadow type="timePicker" id="k%BJ_o2r:_PLEjKhJp5k"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id=";kZc:DG+qYv*xlxer(F;"><field name="LEDS">`
         # # # # # 
         # . . . . 
