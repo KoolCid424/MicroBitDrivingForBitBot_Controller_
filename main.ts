@@ -1,5 +1,5 @@
 basic.forever(function () {
-    if (input.isGesture(Gesture.ScreenUp)) {
+    if (input.logoIsPressed()) {
         radio.sendNumber(0)
     }
 })
