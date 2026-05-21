@@ -1,6 +1,3 @@
-
-> Open this page at [https://koolcid424.github.io/microbitdrivingforbitbot_controller_/](https://koolcid424.github.io/microbitdrivingforbitbot_controller_/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
